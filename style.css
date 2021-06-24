@@ -15,7 +15,7 @@ body {
   color: #002D40;
 }
 .profile-card .cover {
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKUZCIs__HFHXt81yQ8rXtKavsnwU5SFQ0mw&usqp=CAU"), linear-gradient(135deg, rgba(26, 166, 183, 0.2), rgba(255, 65, 77, 0.4));
+  background-image: url(""), linear-gradient(135deg, rgba(26, 166, 183, 0.2), rgba(255, 65, 77, 0.4));
   background-position: center;
   background-size: cover;
   background-blend-mode: overlay;
